@@ -1,1 +1,1 @@
-This is the Repository for the AI Summer School at University of Galatasaray
+This is the repository for the AI Summer School at University of Galatasaray, June 16-18, 2026
